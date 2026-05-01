@@ -11,6 +11,6 @@
 
 ## 2. - La fenêtre de la console Active Directory Users and Computers dans laquelle on voit que le client est dans le conteneur Computers
 
-![[Pasted image 20260501181604.png]](
+![[Pasted image 20260501181604.png]](Installa-AD-2.png)
 
 
