@@ -5,7 +5,7 @@
 ## 1. - La fenêtre du Server Manager où on voit clairement que le rôle AD DS est installé
 
 
-![[Pasted image 20260501181206.png]](
+![[Pasted image 20260501181206.png]](Install-AD-1.png)
 
 
 
